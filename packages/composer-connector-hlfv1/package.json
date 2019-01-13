@@ -64,7 +64,7 @@
     }
   },
   "dependencies": {
-    "fabric-ca-client": "1.2.1",
+    "fabric-ca-client": "https://raw.githubusercontent.com/jalfonsogh/fabric-sdk-node/master-kube/fabric-ca-client.tar.gz",
     "fabric-client": "1.2.1",
     "fs-extra": "1.0.0",
     "jsrsasign": "8.0.3",
