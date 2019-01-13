@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "composer-common": "0.20.6",
-    "composer-connector-hlfv1": "file:../composer-connector-hlfv1",
+    "composer-connector-hlfv1": "https://raw.githubusercontent.com/jalfonsogh/composer/master-kube/packages/composer-conector-hlfv1.tar.gz",
     "composer-connector-proxy": "0.20.6",
     "composer-wallet-filesystem": "0.20.6",
     "composer-wallet-inmemory": "0.20.6"
